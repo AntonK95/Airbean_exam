@@ -46,13 +46,13 @@ Slutanvändaren av appen eller hemsidan skall inte behöva funder på backend ar
 
 - Den tekniska sidan av drönaren dvs vad som gör att den lyfter
 
-- Specefika detaljer om användarnas personliga information som inte är kopplade till beställningen.
+- Specefika detaljer om användarnas personliga information som inte är kopplade till beställningen
 
-- login-sida
+- Login-sida
 
 - Skapa ny användare
 
-- positionshantering
+- Positionshantering
 
 - Databashanteringen som lagrar användarinformationen
 
@@ -62,13 +62,13 @@ Slutanvändaren av appen eller hemsidan skall inte behöva funder på backend ar
 
 - Drönarens GPS funktion samt anslutning till servern
 
-- Lagring av beställningsdata, hantering av flera beställningar samtidigt.
+- Lagring av beställningsdata, hantering av flera beställningar samtidigt
 
-- bekräftelse av betalningar.
+- Bekräftelse av betalningar
 
-- Inloggningsprocessen där användaren kan skapa ett konto eller lägga in.
+- Inloggningsprocessen där användaren kan skapa ett konto eller lägga in
 
-- Lagring av användaruppgifter som användarnamn samt epost adresser.
+- Lagring av användaruppgifter som användarnamn samt epost adresser
 
 
 
