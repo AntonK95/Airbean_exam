@@ -6,6 +6,18 @@ I denna uppgiften tränar vi på de fyra områdena inom datalogist tänkande och
 
 ## Decomposition 
 
+Vi inledde vår decomposition-analys med att observera att vi arbetade med en app istället för en webbsida, vilket innebar att responsiv design inte var nödvändig i **gränssnittsdesign** kategorin då vi endast hade en mobilskiss att utgå ifrån. Även om vi övervägde att appen eventuellt skulle fungera på plattor, valde vi att fokusera på det vi såg i skissen.
+
+Andra vanliga kategorier som **användarhantering, produkthantering och varukorgshantering** var ganska grundläggande. I **användarhantering** inkluderade vi inte bara inloggning och kontoskapande utan även möjligheten att beställa som gäst. För att visa tidigare beställningar krävdes en databas för att lagra information och möjliggöra framtida analys.
+
+Vi noterade avsaknaden av produktbeskrivningar i Figma-skissen, så vi baserade våra antaganden i **produkthantering** kategorin endast på produktlistan. Vi såg också att det inte fanns någon möjlighet att ta bort produkter från varukorgen i appen, vilket vi därför inte inkluderade i vår analys. Att tydligt visa pris inklusive moms och leveransavgifter ansågs vara viktigt för användarupplevelsen.
+
+För **orderhantering** övervägde vi alternativen att erbjuda orderbekräftelse via push-meddelanden eller SMS istället för e-post, vilket kändes smidigare för en app som Airbean.
+
+I **betalningshanteringen** integrerade vi en betaltjänst för att hantera betalningar och likaså planerade vi att integrera GPS-tjänster för positionsdata i **positionshantering** kategorin istället för att utveckla något nytt från grunden.
+
+*Vi observerade avsaknaden av kundtjänst- eller FAQ-logotyp i skissen och antog därför att vår app för tillfället inte erbjöd sådana funktioner.*
+
 ## Pattern recognition 
 
 Pattern recognition innebär att identifier mönster, trender och regelbundenhet inom data. Genom att analysera och förstå dessa mönster kan man dra slutsatser och fatta informerande beslut. 
