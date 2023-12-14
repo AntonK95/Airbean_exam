@@ -1,6 +1,6 @@
 # Airbean_exam
 
-Länk till våran FigJam #https://www.figma.com/file/bdfK8SdzPotc6DDfbonobH/Airbeans-Silver-Zebras?type=whiteboard&node-id=0%3A1&t=AYfwExfEYXoPQf6b-1#
+[Länk till våran FigJam](https://www.figma.com/file/bdfK8SdzPotc6DDfbonobH/Airbeans-Silver-Zebras?type=whiteboard&node-id=0%3A1&t=AYfwExfEYXoPQf6b-1)
 
 Airbean är en applikation för ett företag som säljer kaffe med leverans av drönare. 
 I denna uppgiften tränar vi på de fyra områdena inom datalogist tänkande och applicerar detta på en färdig figmaskiss. 
