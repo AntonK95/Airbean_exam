@@ -42,31 +42,31 @@ Slutanvändaren av appen eller hemsidan skall inte behöva funder på backend ar
 
 **Irrelevanta detaljer:**
 
--Den tekniska sidan av drönaren dvs vad som gör att den lyfter
+- Den tekniska sidan av drönaren dvs vad som gör att den lyfter
 
--Specefika detaljer om användarnas personliga information som inte är kopplade till beställningen.
+- Specefika detaljer om användarnas personliga information som inte är kopplade till beställningen.
 
--login-sida
+- login-sida
 
--Skapa ny användare
+- Skapa ny användare
 
--positionshantering
+- positionshantering
 
--Databashanteringen som lagrar användarinformationen
+- Databashanteringen som lagrar användarinformationen
 
 **Relevanta detaljer :**
 
--Användargränssnittet där användaren beställer kaffe och placerar en beställning
+- Användargränssnittet där användaren beställer kaffe och placerar en beställning
 
--Drönarens GPS funktion samt anslutning till servern
+- Drönarens GPS funktion samt anslutning till servern
 
--Lagring av beställningsdata, hantering av flera beställningar samtidigt.
+- Lagring av beställningsdata, hantering av flera beställningar samtidigt.
 
--bekräftelse av betalningar.
+- bekräftelse av betalningar.
 
--Inloggningsprocessen där användaren kan skapa ett konto eller lägga in.
+- Inloggningsprocessen där användaren kan skapa ett konto eller lägga in.
 
--Lagring av användaruppgifter som användarnamn samt epost adresser.
+- Lagring av användaruppgifter som användarnamn samt epost adresser.
 
 
 
