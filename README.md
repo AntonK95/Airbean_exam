@@ -30,7 +30,7 @@ Färger, font och utformning är lika över hela appen (med vissa undandag för 
 Vi har en tydlig meny högst upp till vänster upp på sidan i form av en hamburgarmeny där man enkelt kan byta kategorier. Uppe till höger har vi en varukorg där man får en överblick på antal varor men kan också enkelt klicka sig vidare in i varukorgen.
 
 
-**Beställningsstegen** är samma oavsett om du redan har ett konto och är inloggad eller inte. Det som kan skilja sig åt är *personliga rekommendationer* för den som är redan har ett konto baserat på orderhistorik. 
+**Beställningsstegen** är samma oavsett om du redan har ett konto och är inloggad eller inte. Det som kan skilja sig åt är *personliga rekommendationer* för den som redan har ett konto, baserat på orderhistorik. 
 
 ## Abstraction 
 Abstraktion handlar om att förenkla saker och inte se det svåra och krångliga arbetet bakom en webbsida eller app.
