@@ -36,6 +36,52 @@ Vi har en tydlig meny högst till vänster upp på sidan i form av en hamburgarm
 
 ## Algorithm Design 
 
+Sammanfattning för vårat Flödesdiagram. 
+
+Öppna Airbean-appen:
+Användaren startar Airbean-appen för att komma åt dess funktioner och tjänster.
+
+Öppna meny:
+Användaren navigerar genom appens meny för att utforska de olika alternativen som finns tillgängliga.
+
+Titta på produkter:
+Användaren granskar de kaffe-produkter som erbjuds i appen för att fatta ett beslut om vad de vill köpa.
+
+Välj produkt:
+När användaren funnit sin önskade produkt och vill köpa den så går hen vidare genom att trycka på plus-tecknet brevid produkten. Vill användaren inte köpa produkten återvänder hen till menyn och fortsätter sitt sökande.
+
+Lägga till i varukorg:
+Om användaren bestämmer sig för att köpa produkten, placeras den i varukorgen för senare bekräftelse och slutförande av köpet.
+
+Handlat färdigt?
+Användaren avgör om de har avslutat sin shopping och är redo att gå vidare till betalning och utcheckning. Vill användaren köpa mer produkter återvänder hen återigen till menyn och upprepar punkterna ovan.
+
+Klicka på utcheckning:
+Användaren initierar betalningsprocessen genom att gå vidare till utcheckning. I denna appen står det "Take my money" istället för "utcheckning" eller "gå till utcheckning". 
+
+Inloggad?
+Appen kontrollerar om användaren redan är inloggad för att underlätta betalningsprocessen och för att spara tid.
+
+Logga in:
+Om användaren inte är inloggad, ges de möjlighet att logga in för att ansluta köpet till deras konto och för att spåra ordern. Om användaren inte vill logga in kan hen fortsätta som gäst.
+
+Fylla i leveransinformation:
+Användaren anger nödvändig information för leveransen, inklusive leveransadress och önskat leveransdatum. Är användaren redan inloggad kan man tänka sig att leveransinformation redan finns sparad från tidigare köp (Om användaren har godkänt det).
+
+Fylla i betalningsinformation:
+Användaren matar in betalningsuppgifter, inklusive kortnummer och säkerhetskod. Även denna information kan man tänka sig finns sparad för att underlätta köpet för användaren.
+
+Verifiera betalningsinformation:
+Appen verifierar att de angivna betalningsuppgifterna är giltiga och korrekta.
+
+Finns det pengar på kontot?
+Appen kontrollerar om det finns tillräckligt med pengar på användarens konto för att täcka kostnaden för köpet.  Om det inte finns tillräckligt med pengar på användarens konto skickas hen tillbaka till "fylla i betalningsinformation". 
+
+Bekräfta köp:
+Om betalningsinformationen är godkänd och det finns tillräckligt med pengar på kontot, bekräftas köpet och ordern slutförs.
+
+Skicka bekräftelse:
+En bekräftelse skickas till användaren, som inkluderar en sammanfattning av ordern och andra relevanta detaljer.
 
 ## Hur markdown fungerar i en README.md fil 
 
