@@ -81,7 +81,7 @@ Bekräfta köp:
 Om betalningsinformationen är godkänd och det finns tillräckligt med pengar på kontot, bekräftas köpet och ordern slutförs.
 
 Skicka bekräftelse:
-En bekräftelse skickas till användaren, som inkluderar en sammanfattning av ordern och andra relevanta detaljer.
+En bekräftelse skickas till användaren (push-notis eller sms), som inkluderar en sammanfattning av ordern och andra relevanta detaljer.
 
 ## Hur markdown fungerar i en README.md fil 
 
