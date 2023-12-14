@@ -26,8 +26,8 @@ Som vi kan se i denna övning så har vi ett stort behov av att spara informatio
 Detta är även viktigt för att saker som autentisering, pris och saldo skall fungera korrekt. 
 
 Vi har också ett mönster i form av **gränssnittsdesign** i appen. 
-Färger, font och utformning är lika över hela appen (med vissa undandag för att färtydliga en aktion eller något med specifikt) för att få en mer bekant och lättanvändlig upplevelse.
-Vi har en tydlig meny högst till vänster upp på sidan i form av en hamburgarmeny där man enkelt kan byta kategorier. Uppe till höger har vi en varukorg där man får en överblick på antal varor men kan också enkelt klicka sig vidare in i varukorgen.
+Färger, font och utformning är lika över hela appen (med vissa undandag för att förtydliga en aktion eller något med specifikt) för att få en mer bekant och lättanvändlig upplevelse.
+Vi har en tydlig meny högst upp till vänster upp på sidan i form av en hamburgarmeny där man enkelt kan byta kategorier. Uppe till höger har vi en varukorg där man får en överblick på antal varor men kan också enkelt klicka sig vidare in i varukorgen.
 
 
 **Beställningsstegen** är samma oavsett om du redan har ett konto och är inloggad eller inte. Det som kan skilja sig åt är *personliga rekommendationer* för den som är redan har ett konto baserat på orderhistorik. 
