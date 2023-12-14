@@ -2,6 +2,7 @@
 
 Airbean är en applikation för ett företag som säljer kaffe med leverans av drönare. 
 I denna uppgiften tränar vi på de fyra områdena inom datalogist tänkande och applicerar detta på en färdig figmaskiss. 
+[Den figmaskiss som vi har jobbat med](https://www.figma.com/file/ONcO3UQRPBLQsZc3FkysMt/AirBean-v.1.1---with-profile?type=design&node-id=0-1&mode=design)
 
 ## Decomposition 
 
