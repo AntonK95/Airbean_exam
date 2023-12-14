@@ -1,5 +1,8 @@
 # Airbean_exam
 
+Airbean är en applikation för ett företag som säljer kaffe med leverans av drönare. 
+I denna uppgiften tränar vi på de fyra områdena inom datalogist tänkande och applicerar detta på en färdig figmaskiss. 
+
 ## Decomposition 
 
 ## Pattern recognition 
