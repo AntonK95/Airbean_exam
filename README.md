@@ -33,6 +33,42 @@ Vi har en tydlig meny högst till vänster upp på sidan i form av en hamburgarm
 **Beställningsstegen** är samma oavsett om du redan har ett konto och är inloggad eller inte. Det som kan skilja sig åt är *personliga rekommendationer* för den som är redan har ett konto baserat på orderhistorik. 
 
 ## Abstraction 
+Abstraktion handlar om att förenkla saker och inte se det svåra och krångliga arbetet bakom en webbsida eller app.
+I vårat fall med airbeans kan man dela upp irrelevanta och revalanta moment.
+
+De irrelavanta i det här fallet är varukorgens komplexivitet med dess databashantering , samt öppnande för ett nytt konto eller login där även databaser har en stor uppgift för att slutanvändaren  skall kunna hantera appen eller websidan på ett korrekt sätt.
+
+Slutanvändaren av appen eller hemsidan skall inte behöva funder på backend arbetet utan bara kunna få en så bra upplevelse som den bara kan när den exempelvis handlar en kaffe på våran airbeans app.
+
+Irrelevanta detaljer:
+
+Den tekniska sidan av drönaren dvs vad som gör att den lyfter
+
+Specefika detaljer om användarnas personliga information som inte är kopplade till beställningen.
+
+login-sida
+
+Skapa ny användare
+
+positionshantering
+
+Databashanteringen som lagrar användarinformationen
+
+Relevanta detaljer :
+
+Användargränssnittet där användaren beställer kaffe och placerar en beställning
+
+Drönarens GPS funktion samt anslutning till servern
+
+Lagring av beställningsdata, hantering av flera beställningar samtidigt.
+
+bekräftelse av betalningar.
+
+Inloggningsprocessen där användaren kan skapa ett konto eller lägga in.
+
+Lagring av användaruppgifter som användarnamn samt epost adresser.
+
+
 
 ## Algorithm Design 
 
