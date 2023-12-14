@@ -40,7 +40,7 @@ De irrelavanta i det här fallet är varukorgens komplexivitet med dess databash
 
 Slutanvändaren av appen eller hemsidan skall inte behöva funder på backend arbetet utan bara kunna få en så bra upplevelse som den bara kan när den exempelvis handlar en kaffe på våran airbeans app.
 
-Irrelevanta detaljer:
+**Irrelevanta detaljer:**
 
 Den tekniska sidan av drönaren dvs vad som gör att den lyfter
 
@@ -54,7 +54,7 @@ positionshantering
 
 Databashanteringen som lagrar användarinformationen
 
-Relevanta detaljer :
+**Relevanta detaljer :**
 
 Användargränssnittet där användaren beställer kaffe och placerar en beställning
 
