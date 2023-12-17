@@ -66,7 +66,7 @@ Slutanvändaren av appen eller hemsidan skall inte behöva funder på backend ar
 
 - Bekräftelse av betalningar
 
-- Inloggningsprocessen där användaren kan skapa ett konto eller lägga in
+- Inloggningsprocessen där användaren kan skapa ett konto eller logga in
 
 - Lagring av användaruppgifter som användarnamn samt epost adresser
 
